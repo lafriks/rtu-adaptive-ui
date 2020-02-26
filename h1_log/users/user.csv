@@ -1,0 +1,2 @@
+username,password,invalid_password_attempts,http_cookie,http_user_agent,remote_addr,latest_request_time,city,country,in_eu,latitude,longitude,currency_code,currency_converter
+test@test.lv,12345,1,Phpstorm-9eb1cffd=a4030408-c557-4c24-8050-527fa29f6d33; XDEBUG_SESSION=PHPSTORM,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/79.0.3945.130 Safari/537.36,::1,2020-02-26 17:15:04,Riga,Latvia,1,56.95,24.1,EUR,0.9197

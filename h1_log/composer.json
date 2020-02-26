@@ -1,0 +1,9 @@
+{
+    "require": {
+        "league/csv": "^9.5",
+        "ext-simplexml": "*"
+    },
+    "autoload": {
+        "psr-4": {"app\\": "app/"}
+    }
+}
